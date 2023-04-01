@@ -1,0 +1,98 @@
+# Blender MTL File: 'Weapon1_separate_parts_UV.blend'
+# Material Count: 7
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock\\Stock_Stock_Normal.png
+map_Kd C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock\\Stock_Stock_BaseColor.png
+map_Ns C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock\\Stock_Stock_Roughness.png
+refl C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock\\Stock_Stock_Metallic.png
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock2\\Stock2_Stock_Normal.png
+map_Kd C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock2\\Stock2_Stock_BaseColor.png
+map_Ns C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock2\\Stock2_Stock_Roughness.png
+refl C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock2\\Stock2_Stock_Metallic.png
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Main gun\\Main gun_Material.003_Normal.png
+map_Kd C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Main gun\\Main gun_Material.003_BaseColor.png
+map_Ns C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Main gun\\Main gun_Material.003_Roughness.png
+refl C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Main gun\\Main gun_Material.003_Metallic.png
+
+newmtl Material.006
+Ns 299.919407
+Ka 0.900000 0.900000 0.900000
+Kd 0.800000 0.800000 0.800000
+Ks 0.686364 0.686364 0.686364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock2\\Stock2_Stock_Normal.png
+map_Kd C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Stock2\\Stock2_Stock_BaseColor.png
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Trigger Guard\\Trigger Guard_Stock_Normal.png
+map_Kd C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Trigger Guard\\Trigger Guard_Stock_BaseColor.png
+map_Ns C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Trigger Guard\\Trigger Guard_Stock_Roughness.png
+refl C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Trigger Guard\\Trigger Guard_Stock_Metallic.png
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Back Grip\\Back Grip_Stock_Normal.png
+map_Kd C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Back Grip\\Back Grip_Stock_BaseColor.png
+map_Ns C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Back Grip\\Back Grip_Stock_Roughness.png
+refl C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Back Grip\\Back Grip_Stock_Metallic.png
+
+newmtl Material.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Front Grip\\Front Grip_DefaultMaterial_Normal.png
+map_Kd C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Front Grip\\Front Grip_DefaultMaterial_BaseColor.png
+map_Ns C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Front Grip\\Front Grip_DefaultMaterial_Roughness.png
+refl C:\\Blender Stuff\\Projects\\Symmetral\\Weapons(s)\\Textures\\Front Grip\\Front Grip_DefaultMaterial_Metallic.png
